@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -e
+
+BRANCH=`git branch --show-current`
+
+gh repo view -w -b ${BRANCH}
