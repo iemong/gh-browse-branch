@@ -1,5 +1,5 @@
 # `gh-browse-branch` GitHub CLI extension
-[GITHUB CLI](https://github.com/cli/cli) extension for opening current branch in the browser.
+[GitHub CLI](https://github.com/cli/cli) extension for opening current branch in the browser.
 
 ## Installation
 
